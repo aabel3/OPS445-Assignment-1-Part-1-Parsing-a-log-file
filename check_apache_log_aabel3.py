@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
-# OPS435 Assignment 1
-# check_apache_log_aabel3 .py
+# OPS445 Assignment 1
+# check_apache_log_aabel3.py
 # Author: Avraham Abel
 
 # Allowing the sys.argv to allow it to be done on the terminal/cmd
