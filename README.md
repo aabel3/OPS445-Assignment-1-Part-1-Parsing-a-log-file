@@ -14,7 +14,7 @@ In this assignment, you will apply your foundational Python skills to build more
 
 📂 Assignment Files:
 You will create and work with the following files during this assignment:
-+ a1p1.py – Main assignment script
++ check_apache_log_SenecaUsername.py – Main assignment script
 + Supporting function files (e.g., functions.py)
 + Test scripts for validating functionality
 
